@@ -3,8 +3,8 @@ Weather app that get current temperature, humidity, wind speed and hourly weathe
 
 # Loading Screen
 
-<img src="images/1.jpg" >
+<img src="images/1.jpg" width="200">
 
 # Weather Screen
 
-<img src="images/2.jpg" >
+<img src="images/2.jpg" width="200">
